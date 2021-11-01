@@ -61,3 +61,5 @@ Bilangan antara 5 dan 20
 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 Bilangan diatas ada 16 bilangan
 Jumlah semua Bilangan adalah  200
 ```
+
+# Hanya Untuk Latihan Personal
